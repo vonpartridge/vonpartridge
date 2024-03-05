@@ -135,9 +135,19 @@ height="60px">
 <h2>Other tools<h2>
 
 
-## Other projects and repos
-    
-[Study in NSU](https://github.com/NSU-IT-undergrad-courses/ "Предметы бакалавриата ФИТа")
+## Other repos
+<a href="https://github.com/NSU-IT-undergrad-courses/">
+<img
+    src="https://avatars.githubusercontent.com/u/162310381?s=200&v=4"
+    title="Предметы бакалавриата ФИТа"
+    alt="Предметы бакалавриата ФИТа"
+    height="60px">
+</a>
 
-[Test tasks, interviews etc.](https://github.com/test-tasks-and-interviews "Тут в основном тестовые и что-то к собесам")
-</h2>
+<a href="https://github.com/test-tasks-and-interviews">
+<img
+    src="https://avatars.githubusercontent.com/u/162309332?s=200&v=4"
+    title="Test task, work interviews"
+    alt="Test task, work interviews"
+    height="60px">
+</a>
