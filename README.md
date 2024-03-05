@@ -132,22 +132,22 @@ height="60px">
     height="60px">
 </a>
 
-<h2>Other tools<h2>
+[//]: # (<h2>Other tools<h2>)
 
 
 ## Other repos
 <a href="https://github.com/NSU-IT-undergrad-courses/">
 <img
     src="https://avatars.githubusercontent.com/u/162310381?s=200&v=4"
-    title="Предметы бакалавриата ФИТа"
-    alt="Предметы бакалавриата ФИТа"
+    title="NSU undergrad courses"
+    alt="NSU undergrad courses"
     height="60px">
 </a>
 
 <a href="https://github.com/test-tasks-and-interviews">
 <img
     src="https://avatars.githubusercontent.com/u/162309332?s=200&v=4"
-    title="Test task, work interviews"
-    alt="Test task, work interviews"
+    title="Test tasks, work interviews"
+    alt="Test tasks, work interviews"
     height="60px">
 </a>
