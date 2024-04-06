@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://papertoilet.com/">
         <img
-            src="https://komarev.com/ghpvc/?username=Inventorem&style=for-the-badge&color=00AA00"
+            src="https://komarev.com/ghpvc/?username=vonpartridge&style=for-the-badge&color=00AA00"
             alt="view count"
             title="View count (click for something interesting)">
     </a>
@@ -39,9 +39,9 @@
 
 <h2>GitHub Stats</h2>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Inventorem&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vonpartridge&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Inventorem&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vonpartridge&theme=transparent)
 
 <h2>Languages</h2>
 <a href="https://kotlinlang.org/">
