@@ -136,8 +136,8 @@ height="60px">
 
 
 ## Other repos
-<a href="https://github.com/NSU-IT-undergrad-courses/">
 <h1 align="center">Repo with projects from NSU</h1>
+<a align="center" href="https://github.com/NSU-IT-undergrad-courses/">
 <img
     src="https://avatars.githubusercontent.com/u/162310381?s=200&v=4"
     title="NSU undergrad courses"
@@ -145,8 +145,8 @@ height="60px">
     height="60px">
 </a>
 
-<a href="https://github.com/test-tasks-and-interviews">
 <h1 align="center">Repo with test tasks, tasks from interviews and some leetcode</h1>
+<a align="center" href="https://github.com/test-tasks-and-interviews">
 <img
     src="https://avatars.githubusercontent.com/u/162309332?s=200&v=4"
     title="Test tasks, work interviews"
